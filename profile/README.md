@@ -3,9 +3,9 @@
 Lead the world to embrace movement’s full potential
 
 
-## Acknowledgements
+## We stand on the shoulders of giants
 
-We stand on the shoulders of giants. Among others, Akina uses the following open source software for its product, Akina Cloud. 
+ Among others, Akina uses the following open source software for its product, Akina Cloud. 
 
 | Name | Version | Authors | Repository | License | Description |
 |------|---------|---------|------------|---------|-------------|
