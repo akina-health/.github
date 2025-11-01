@@ -9,7 +9,6 @@ Lead the world to embrace movement’s full potential
 
 | Name | Authors | Repository | License | Description |
 |------|---------|------------|---------|-------------|
-| akina-care | Akina AG | | | |
 | lazy_static | Marvin Löbel <loebel.marvin@gmail.com> | https://github.com/rust-lang-nursery/lazy-static.rs | Apache-2.0 OR MIT | A macro for declaring lazily evaluated statics in Rust. |
 | log | The Rust Project Developers | https://github.com/rust-lang/log | Apache-2.0 OR MIT | A lightweight logging facade for Rust |
 | objc2-app-kit | | https://github.com/madsmtm/objc2 | Apache-2.0 OR MIT OR Zlib | Bindings to the AppKit framework |
